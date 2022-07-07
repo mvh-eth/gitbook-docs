@@ -1,10 +1,10 @@
 # Zash <> NFT Vision
 
-### What does the model tell us
+### What does the model tell us?
 
 The regression model is able to predict the relationship between the traits a price for a given NFT within a collection, for example if the floor for okay bears is 100 SOL the model is able to tell us that okay bear x with y rarity is worth 234 SOL. Because the model is trained knowing the current floor and mean price all of the predictions are collaborated to the current market.
 
-### How is the model trained
+### How is the model trained?
 
 The model is trained on traits and sale history.
 
