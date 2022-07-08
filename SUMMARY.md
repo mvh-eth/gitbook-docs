@@ -13,3 +13,7 @@
 ***
 
 * [API](api.md)
+
+## Group 1
+
+* [App Architecture overview](group-1/app-architecture-overview.md)
